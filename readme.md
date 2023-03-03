@@ -136,7 +136,7 @@ review this effectiveness before the next iteration of the project.
 
 ## Release Schedule
 
-| Release Version | Release Date | Features |
-|-----------------|--------------|----------|
-| 0.1.x           | TBD          | TBD      |
+| Release Version | Release Date    | Features                                                                                                  |
+|-----------------|-----------------|-----------------------------------------------------------------------------------------------------------|
+| 0.1.0           | March 3rd, 2023 | - Basic Project Documentation<br/> - DevOps<br/> - Create an initial web page template for mywebclass.org |
 
