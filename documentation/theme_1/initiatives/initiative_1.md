@@ -42,7 +42,7 @@ Team:
 * Trainer: responsible for conducting training sessions for team members
 
 ## Epics
-* [Define Project Scope and Goals]((epics/epic_1.1.md))
+* [Define Project Scope and Goals](epics/epic_1.1.md)
 
 ## Test Plan
 
