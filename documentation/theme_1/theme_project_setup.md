@@ -10,10 +10,6 @@ us up for long-term success.
 * [DevOps](initiatives/initiative_2.md)
 * [Create an initial web page template for MyWebClass.org](initiatives/initiative_3.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
-
 ## Test plan
 
 Overview: The objective of this theme is to establish a strong foundation for our web project using lean and agile principles.
