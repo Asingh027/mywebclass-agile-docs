@@ -22,8 +22,8 @@ Overview: The objective of this theme is to establish a strong foundation for ou
 
 
 #### Basic Project Documentation and Project Management
-* Test the completeness and accuracy of the project documentation. 
-* Test the effectiveness of the project management practices.
+* Test the completeness and accuracy of the project documentation by implementing a rotating peer review system
+* Test the effectiveness of the project management practices by setting clear goals and timelines and adhering to them.
 #### DevOps
 
 * Test the deployment and configuration of the DevOps tools. 
