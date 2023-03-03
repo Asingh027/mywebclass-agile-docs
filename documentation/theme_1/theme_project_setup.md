@@ -27,7 +27,7 @@ Overview: The objective of this theme is to establish a strong foundation for ou
 #### DevOps
 
 * Test the deployment and configuration of the DevOps tools. 
-* Test the integration of the DevOps pipeline with the development process. 
+* Test the integration of the DevOps pipeline with the development process by utilizing PyTest and Playwright. 
  
 #### Create an initial web page template for MyWebClass.org 
 * Test the responsiveness and functionality of the web page template. 
