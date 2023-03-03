@@ -1,15 +1,13 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Create a project charter document outlining the project scope and goals
 
-User Story: [Reference the user story that this task supports]
+User Story: As a project team member, I want to understand the scope and goals of the project, so that I can work towards achieving them.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: This task involves creating a project charter document that outlines the project scope and goals. The project manager will need to work with stakeholders to gather information about what the project will accomplish and what success looks like. The project charter should include the project scope, objectives, deliverables, timeline, budget, risks, assumptions, and constraints. The outcome of this task will be a document that all stakeholders can refer to throughout the project to ensure that everyone is on the same page.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 8 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Project Manager
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
+Status: Not Started

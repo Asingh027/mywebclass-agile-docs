@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Research User Needs and Preferences
 
-User Story: [Reference the user story that this task supports]
+User Story: As a user, I want to have a clean and intuitive user interface, so that I can easily find and access content.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Research and gather information on user needs and preferences. This may involve conducting user surveys, interviews, or focus groups. The acceptance criteria for this task are a clear understanding of user needs and preferences related to website design and layout.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 12 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: UX Researcher
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: Medium
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not started
 
-Notes: [Include]
+Notes: The UX Researcher will work with the design team to ensure that user needs and preferences are incorporated into the website design.
