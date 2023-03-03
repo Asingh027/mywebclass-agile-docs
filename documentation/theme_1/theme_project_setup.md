@@ -6,9 +6,9 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Initiative(s)
 
-* [Basic Project Documentation and Project Management](initiatives/documentation_initiative.md)
-* [DevOps](initiatives/initiative_devops.md)
-* [Create an initial web page template for MyWebClass.org](initiatives/initiative_webpage_template.md)
+* [Basic Project Documentation and Project Management](initiatives/initiative_1.md)
+* [DevOps](initiatives/initiative_2.md)
+* [Create an initial web page template for MyWebClass.org](initiatives/initiative_3.md)
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
