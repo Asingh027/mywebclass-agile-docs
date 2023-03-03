@@ -61,5 +61,5 @@ Team:
 
 
 # Epics
-1. [Epic 1](documentation/templates/theme/epics/epic_3.1.md)
-2. [Epic 2](documentation/templates/theme/epics/epic_3.2.md)
+1. [Design user interface](epics/epic_3.1.md)
+2. [Integrate website analytics and monitoring](epics/epic_3.2.md)
